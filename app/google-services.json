@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282358334527",
+    "project_id": "projetoaula-c4afb",
+    "storage_bucket": "projetoaula-c4afb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282358334527:android:c5db21fa2fc78b3abda48a",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjaglE0Fr6Dw1UtTTiTeIcWIKll-Nhlk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
