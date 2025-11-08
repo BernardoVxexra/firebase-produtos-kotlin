@@ -114,7 +114,7 @@ fun HomeScreen(
                 Spacer(modifier = Modifier.height(8.dp))
 
                 Text(
-                    text = "Use o menu no canto superior direito para navegar.",
+                    text = "Use o menu no canto superior direito para navegar melhor.",
                     fontSize = 16.sp,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     textAlign = TextAlign.Center
@@ -123,3 +123,4 @@ fun HomeScreen(
         }
     }
 }
+
